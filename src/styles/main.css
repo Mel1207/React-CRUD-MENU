@@ -1,0 +1,22 @@
+*, html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    background: red;
+  }
+}
+@media screen and (max-width: 600px) {
+  body {
+    background: green;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */
